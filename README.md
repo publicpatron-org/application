@@ -7,4 +7,4 @@ For streams, it reports the URL.
 
 For files, it runs a hash function on the file and reports that unique value.
 
-For all media, it also reports the user ID.
+For all media, it also reports the patron ID.
